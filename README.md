@@ -18,6 +18,8 @@
 
 ## Employers
 
+See spreadsheet
+
 Do the full process for each employer in turn
 
 ### The Blue Cow
@@ -27,6 +29,10 @@ T drive folder: `T:\Clients\The Blue Cow\`
 ### Robert & Edwards Limited
 
 T drive folder: `T:\Clients\R&E Ltd -R591\`
+
+### xed
+
+T drive folder: `T:\Clients\xxx\`
 
 ## next
 
@@ -114,6 +120,8 @@ Google search: nest pension login
 
 In Moneysoft Payroll Manager
 
+1. Previous week lockedd submission
+1. week 41 pension = week 42 RTI = week 43 payslips
 1. From the main menu
 1. **pension** > **generate upload files** > **NEST** > **contributions**
 1. Double check that the **Employee Contributions** matches the Pay Details
@@ -160,6 +168,11 @@ tasks
 1. ultimately, make sure net+pension = 470.00
 1. Submit RTI to HMRC
 1. ?
+
+## Spreadsheet
+
+Use to record submissions, payroll, pension
+`T:\PAYE\payroll details control2021.xlsx`
 
 ## Other Notes
 

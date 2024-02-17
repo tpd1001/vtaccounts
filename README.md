@@ -1,5 +1,9 @@
 # Payroll Instructions
 
+## Online
+
+Available as a [README](https://github.com/tpd1001/vtaccounts/blob/main/README.md)
+
 ## Prerequisites
 
 * Install RemotePC software
@@ -12,9 +16,6 @@
 * START > Moneysoft > Payroll Manager
 * File > Open
 * T:\Moneysoft Payroll\2023-24
-* Do each of these in turn as per the following sections
-  * Blue Cow
-  * Robert&Edwards
 
 ## T Drive
 
@@ -26,9 +27,14 @@
 * `T:\joblist` containing spreadsheet (2023/24) with task lists
 * `T:\PAYE\` tbc
 
+## Calendar
+
+Tom created a Google calendar, to be populated with key events going forward:
+[VT Accounts Calendar](https://calendar.google.com/calendar/embed?src=1d886704ad858bd897308ae0220cca5bf10f6e39bbd01a945fc6ff277e4a2e9f%40group.calendar.google.com&ctz=Europe%2FLondon)
+
 ## Employers
 
-See spreadsheet
+See spreadsheet (client database presumably)
 
 Do the full process for each employer in turn
 
@@ -49,7 +55,7 @@ Send payslips by 20th, wait a few days, then do RTI
 Monthly on or before 28th (best use 21st)
 NEST whenever we send payslips
 RTI on or before 28th
-bear in mind new york
+bear in mind New York
 
 ### CH Meats
 
@@ -59,20 +65,20 @@ Weekly RTI, send
 ### USP
 
 Gregory's company (Unique Surfaces Plus Limited)
-no pension (musband & wife only)
+no pension (husband & wife only)
 
 ### Viztec
 
-Doemant
+Dormant
 Year end 31/01/2024
 
-File confirmantion statement
+File confirmation statement with Companies House
 > is company trading status on stock market
-> psc changes
+> PSC changes
 > any director changes
 tick box & submit
 
-payment: credit card ot *by account*
+payment: credit card or *by account*
 presenter ID & presenter authentication code from from client database spreadsheet
 no need for customer reference
 
@@ -95,9 +101,9 @@ Then you can submit your accounts
 Go to companies house and search for when Accounts and Confirmation Statement due
 
 Companies house> File confirmation statement
-email address tangm (fat) vtaccounts.co.uk
+email address tangam (at) vtaccounts.co.uk
 
-WebFiling?
+Web Filing?
 
 Your companies
 
@@ -109,7 +115,7 @@ Your companies
 
 Analysis: reports for pay details
 
-Employes summary for current period (toolbar button)
+Employees summary for current period (toolbar button)
 
 * if weekly payroll, still have to send to HMRC monthly
 
@@ -125,6 +131,7 @@ Employes summary for current period (toolbar button)
   * check if weekly   (`Wk ##`)
 * Click main menu bar yellow envelope button (with no tick) or **Pay** > **Employee's Payslip**
 * Click **All** then **OK**
+* Check ???
 * Click the red Acrobat save as PDF button
 * Save to a single PDF file
 * save payslip to:
@@ -136,10 +143,10 @@ Employes summary for current period (toolbar button)
 1. Locate the line with status **due now**
 1. Click **View / File**
 1. For weekly payroll, double check that **Total Net Pay** + **Employee Pension Contributions** (or **Deductions**) add up to a whole number of pounds
-1. Click the very thin **Click to file thiw return online to HMRC** (at top of sub-window)
+1. Click the very thin **Click to file this return online to HMRC** (at top of sub-window)
 1. Click **Start** and wait for all green ticks
 1. Click **OK** then **Check for responses**
-1. Wen you get a Succeeded, click **OK** then **Close**
+1. When you get a Succeeded, click **OK** then **Close**
 1. Click the red Acrobat save as PDF button
 1. Save response PDF to `T:\Clients\<>\PAYE\2023-24\RTI` (tbc)
 
@@ -147,17 +154,17 @@ Robert&Edwards - SAVE AS SINGLE PDF
 
 Next steps:
 
-* submit rti to hmrc
+* submit RTI to HMRC
 * submit pension to nest site
 * check for emails
-  * adam lawrence (director of blue cow)
+  * Adam Lawrence (director of blue cow)
     * adam (at) thebluecowbutchers.co.uk
-  * robert huey (operational) (Robert&Edwards?)
+  * Robert Huey (operational) (Robert&Edwards?)
     * info (at) robertandedwards.co.uk
 * when receive email - save statement etc. into T drive
   * `T:\Clients\<>\Accts\ye230824\bank\cc` (creditcard)
 * also VAT return
-  * ask for PDF + electronic and cross-reference (PDF more relible)
+  * ask for PDF + electronic and cross-reference (PDF more reliable)
   * or
   * `T:\Clients\<>\PAYE`
 
@@ -166,7 +173,7 @@ Next steps:
 * on 22nd of month onwards
 * they setup a DD (payroll compliance) on 28th?
 * payslip date must be before payment date
-* dec, payroll from 15th onwards as pay made ~ 1 week early
+* Dec, payroll from 15th onwards as pay made ~ 1 week early
 
 * click payroll, click **PDF** button, save on T: drive
 * click **RTI** on main menu -> view/File
@@ -187,7 +194,7 @@ Google search: nest pension login
 
 In Moneysoft Payroll Manager
 
-1. Previous week lockedd submission
+1. Previous week locked submission
 1. week 41 pension = week 42 RTI = week 43 payslips
 1. From the main menu
 1. **pension** > **generate upload files** > **NEST** > **contributions**
@@ -196,7 +203,7 @@ In Moneysoft Payroll Manager
 1. Click the very thin **Click to here file this return online to NEST** (at top)
 1. Click **Start** and wait for all green ticks
 1. Click **OK** then **Check for responses**
-1. Wen you get a Succeeded, click **OK** then **Close**
+1. When you get a Succeeded, click **OK** then **Close**
 1. no need to see/save reply
 1. No need to save PDF
 1. Leave payroll open & launch Microsoft Edge
@@ -211,9 +218,9 @@ In Moneysoft Payroll Manager
 1. Click **Submit schedule**
 1. pay now, confirm
 
-Kannan 5-6pm (travelling) 6pm Canada (-5hrs UK) Mon&Fri
+Kannan 5-6pm (traveling) 6pm Canada (-5hrs UK) Mon&Fri
 
-before 5th month (EMP,P30) - send to client (to submit & pay to hmrc by 17th)
+before 5th month (EMP,P30) - send to client (to submit & pay to HMRC by 17th)
 
 ### Send payslips to client
 
@@ -224,7 +231,7 @@ before 5th month (EMP,P30) - send to client (to submit & pay to hmrc by 17th)
 tasks
 
 1. Do payroll
-1. main menybar > payslip
+1. main menu bar > payslip
 1. pension + netpay = 470
 1. net-to-gross pay > target net pay 470 > don't use figure because of pension deduction
 1. WRONG put net pay into excel * 0.04 for pension
@@ -243,7 +250,7 @@ Use to record submissions, payroll, pension
 
 ## Other Notes
 
-Sage Cloud (reconcilliation/bookkeepping)
+Sage Cloud (reconciliation/bookkeeping)
 3 Clients
 bring report from sage:
 cash in

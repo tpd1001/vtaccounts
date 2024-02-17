@@ -16,6 +16,16 @@
   * Blue Cow
   * Robert&Edwards
 
+## T Drive
+
+* `T:\clientdatabase_vandt_(Recovered).xlsx` > companies tab
+  * submitted black, to do red
+  * D in column A means a dormant company
+    * confirmation statement once a year
+      * further info in `companieshouse.docx`
+* `T:\joblist` containing spreadsheet (2023/24) with task lists
+* `T:\PAYE\` tbc
+
 ## Employers
 
 See spreadsheet
@@ -29,10 +39,67 @@ T drive folder: `T:\Clients\The Blue Cow\`
 ### Robert & Edwards Limited
 
 T drive folder: `T:\Clients\R&E Ltd -R591\`
+Payroll, stick to weekly routine
 
-### xed
+### FOLIOS
 
-T drive folder: `T:\Clients\xxx\`
+T drive folder: `T:\Clients\Folios-F221\`
+Payslips: <to@who.fqdn>
+Send payslips by 20th, wait a few days, then do RTI
+Monthly on or before 28th (best use 21st)
+NEST whenever we send payslips
+RTI on or before 28th
+bear in mind new york
+
+### CH Meats
+
+T drive folder: `T:\Clients\tbc\`
+Weekly RTI, send
+
+### USP
+
+Gregory's company (Unique Surfaces Plus Limited)
+no pension (musband & wife only)
+
+### Viztec
+
+Doemant
+Year end 31/01/2024
+
+File confirmantion statement
+> is company trading status on stock market
+> psc changes
+> any director changes
+tick box & submit
+
+payment: credit card ot *by account*
+presenter ID & presenter authentication code from from client database spreadsheet
+no need for customer reference
+
+Then file company accounts
+> file dormant company accounts
+
+## Employer NI
+
+13.8% over 9000
+
+## Company year end
+
+Companies House sends email
+
+* from Inform Direct
+* n
+
+Then you can submit your accounts
+
+Go to companies house and search for when Accounts and Confirmation Statement due
+
+Companies house> File confirmation statement
+email address tangm (fat) vtaccounts.co.uk
+
+WebFiling?
+
+Your companies
 
 ## next
 
@@ -68,7 +135,7 @@ Employes summary for current period (toolbar button)
 1. Click red RTI button or **Pay** > **Employer's RTI schedule** (Ctrl-D)
 1. Locate the line with status **due now**
 1. Click **View / File**
-1. Double check that **Total Net Pay** + **Employee Pension Contributions** add up to a whole number of pounds
+1. For weekly payroll, double check that **Total Net Pay** + **Employee Pension Contributions** (or **Deductions**) add up to a whole number of pounds
 1. Click the very thin **Click to file thiw return online to HMRC** (at top of sub-window)
 1. Click **Start** and wait for all green ticks
 1. Click **OK** then **Check for responses**
@@ -84,9 +151,9 @@ Next steps:
 * submit pension to nest site
 * check for emails
   * adam lawrence (director of blue cow)
-    * <adam@thebluecowbutchers.co.uk>
+    * adam (at) thebluecowbutchers.co.uk
   * robert huey (operational) (Robert&Edwards?)
-    * <info@robertandedwards.co.uk>
+    * info (at) robertandedwards.co.uk
 * when receive email - save statement etc. into T drive
   * `T:\Clients\<>\Accts\ye230824\bank\cc` (creditcard)
 * also VAT return
@@ -141,7 +208,7 @@ In Moneysoft Payroll Manager
 1. N.B. Pension contributions are always 1 week behind (to avoid long delay in case of payroll change)
 1. Click the arrow in the **Edit/Pay** column for the top row (nearest payment due date)
 1. Double check that the **Member Contributions** matches the Pay Details figure from payroll
-1. submit schedule
+1. Click **Submit schedule**
 1. pay now, confirm
 
 Kannan 5-6pm (travelling) 6pm Canada (-5hrs UK) Mon&Fri

@@ -1,3 +1,7 @@
+PRIV.md
+repo.cmds
 *.txt
+*.bak
+?
 *~
 ~$*

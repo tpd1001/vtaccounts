@@ -24,6 +24,10 @@ Available as a [README](https://github.com/tpd1001/vtaccounts/blob/main/README.m
   * D in column A means a dormant company
     * confirmation statement once a year
       * further info in `companieshouse.docx`
+  * ACS tab contains accounting periods for each client
+    * accounts (acs) sent to client for approval
+    * year end in black not ended
+    * in red means accounts to be prepared
 * `T:\joblist` containing spreadsheet (2023/24) with task lists
 * `T:\PAYE\` tbc
 
@@ -60,7 +64,15 @@ bear in mind New York
 ### CH Meats
 
 T drive folder: `T:\Clients\tbc\`
-Weekly RTI, send
+Weekly RTI, send 4/5 payslips
+
+PAYE month ends 5th of month
+<www.gov.uk> > hmrc services > sign in
+
+If only weekly payroll have to pay liability weekly
+monthly+weekly is pay liability monthly
+
+employer NI 4k per year you don't have to pay (employer's allowance)
 
 ### USP
 
@@ -88,6 +100,12 @@ Then file company accounts
 ## Employer NI
 
 13.8% over 9000
+
+## Reference
+
+`T:\Clients....\Reference.xlsx` (password is "Spreadsheet" in 1Password)
+
+Contains email addresses, phone numbers etc.
 
 ## Company year end
 

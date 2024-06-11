@@ -28,8 +28,15 @@ Available as a [README](https://github.com/tpd1001/vtaccounts/blob/main/README.m
     * accounts (acs) sent to client for approval
     * year end in black not ended
     * in red means accounts to be prepared
-* `T:\joblist` containing spreadsheet (2023/24) with task lists
-* `T:\PAYE\` tbc
+* `T:\joblist\2024joblist.xlsx` containing spreadsheet (2023/24) with task lists
+* `T:\PAYE\payroll details controll2021.xlsx`
+
+## OneDrive
+
+Important locations:
+
+* `ODT_Shared\PAYE\payroll details controll2021.xlsx`
+* `ODT_Shared\Clients Ref*\Reference.xlsx` (see **Spreadsheet** in **Viji** vault in **1Password**)
 
 ## Calendar
 
@@ -67,7 +74,7 @@ T drive folder: `T:\Clients\tbc\`
 Weekly RTI, send 4/5 payslips
 
 PAYE month ends 5th of month
-<www.gov.uk> > hmrc services > sign in
+<www.gov.uk> > HMRC services > sign in
 
 If only weekly payroll have to pay liability weekly
 monthly+weekly is pay liability monthly
@@ -78,6 +85,10 @@ employer NI 4k per year you don't have to pay (employer's allowance)
 
 Gregory's company (Unique Surfaces Plus Limited)
 no pension (husband & wife only)
+
+* Check P30 & Tax summary
+* Should only be any liability in month 12 at end of FY
+* Say 1000/month to avoid employer/employee NI
 
 ### Viztec
 
@@ -205,6 +216,29 @@ Next steps:
 * check response is successful
 * save response PDF to `T:\Clients\The Blue Cow\PAYE\2023-24\RTI` (tbc)
 
+#### P30 and Tax Summary
+
+before 5th month (EMP,P30) - send to client (to submit & pay to HMRC by 17th)
+
+1. Open Payroll file
+1. Click **Pay Details** (£) button or **Pay > Pay Details**
+1. Select the most recent locked week/month
+1. Click **P30** button or **Pay > P30**
+1. Click **PDF** button, save on T: drive in **PAYE\P30** folder
+1. Click **TAX** button or **Pay > Tax Summary** (not for current period)
+1. Click **PDF** button, save on T: drive in **PAYE\Tax summary** folder
+
+* CH Meats - monthly, often no liability
+* Folios - monthly
+* blue cow - monthly
+* R&E - monthly
+* V&T - monthly, should be nil except March
+* tiny
+* lumbini
+* USP - monthly, should be no liability except month 12
+
+JSK - annual payroll, after 15th of March
+
 ### PENSION
 
 Google search: nest pension login
@@ -283,3 +317,22 @@ they send credit card statements sometimes too
 ---
 
 MRST-NEW-PC2
+
+## PAYE Notices
+
+Tools > Downloads PAYE Notices > Check for new notices
+check monthly for all clients or every 2 months
+
+select employee and click apply
+
+tax code adjustment before calculating net/goss pay
+
+check pay copied over from week 53 to week 1
+
+net-to-gross target button and enter 500
+
+John Read - plus others
+
+basic pay increase because tax code changes
+need notice from HMRC for why code was changed
+please confirm if you want us to apply the new code

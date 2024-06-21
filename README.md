@@ -58,23 +58,33 @@ T drive folder: `T:\Clients\The Blue Cow\`
 T drive folder: `T:\Clients\R&E Ltd -R591\`
 Payroll, stick to weekly routine
 
+* All weekly paid employees need to be on a round number for Net Pay
+* N.B. Net + Pension = Round Number
+
+It seems that we also need to ensure that some monthly employees are on a round number (2500) for Net Pay
+
+* Julia Lawrence
+* Claire Hewitt
+
 ### FOLIOS
 
 T drive folder: `T:\Clients\Folios-F221\`
-Payslips: <to@who.fqdn>
+`ODT_Shared\Clients\Folios-F221\PAYE`
+Payslips: may.asfahani(at)btinternet(.)com
 Send payslips by 20th, wait a few days, then do RTI
-Monthly on or before 28th (best use 21st)
+Monthly RTI on or before last Tuesday in month
+Send P30 & Tax Summary immediatelt after you do the RTI
 NEST whenever we send payslips
-RTI on or before 28th
-bear in mind New York
 
 ### CH Meats
 
-T drive folder: `T:\Clients\tbc\`
+T drive folder: `T:\Clients\CH Meats & CA Hewitt\`
+`ODT_Shared\Clients\CH Meats & CA Hewitt\PAYE`
 Weekly RTI, send 4/5 payslips
+Payslips: rhewitt339(@)btinternet(.)com
 
 PAYE month ends 5th of month
-<www.gov.uk> > HMRC services > sign in
+`www.gov.uk` > HMRC services > sign in
 
 If only weekly payroll have to pay liability weekly
 monthly+weekly is pay liability monthly
@@ -85,10 +95,49 @@ employer NI 4k per year you don't have to pay (employer's allowance)
 
 Gregory's company (Unique Surfaces Plus Limited)
 no pension (husband & wife only)
+Payslips: jola(at)usplus(.)co(.)uk
 
 * Check P30 & Tax summary
 * Should only be any liability in month 12 at end of FY
 * Say 1000/month to avoid employer/employee NI
+* Due by approx last day of the month
+
+`ODT_Shared\Clients\UNIQUE SURFACES PLUS\PAYE`
+
+### Tiny Computers
+
+No pay currently.
+
+* Monthly, currently nil-RTI, by 26/27th of the month
+* Except around March/April
+
+`ODT_Shared\Clients\TinyPltd-T710\PAYE`
+
+### J.S.Kudail & Sons
+
+Basic Pay of 15000 in April then nothing.
+
+* Monthly nil-RTI, by last day of the month
+* Annually something... payslips?
+
+`ODT_Shared\Clients\JSK & Sons 356\PAYE`
+
+### V&T
+
+PAYE scheme kept open.
+
+* Monthly nil-RTI, by last day of of the month
+* Except July, typically 9000
+
+`ODT_Shared\Clients\V&T LTD\PAYE`
+
+### Lumbini
+
+PAYE scheme to be closed?
+
+* Monthly nil-RTI, by 5th of the month
+
+`ODT_Shared\Clients\Athuraliyage Lumbini A009\PAYE`
 
 ### Viztec
 

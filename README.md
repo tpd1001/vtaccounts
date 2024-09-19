@@ -52,11 +52,14 @@ Do the full process for each employer in turn
 ### The Blue Cow
 
 T drive folder: `T:\Clients\The Blue Cow\`
+Weekly + monthly - RTI on month
+P30/Tax summary wk 13 (~5th)
 
 ### Robert & Edwards Limited
 
 T drive folder: `T:\Clients\R&E Ltd -R591\`
 Payroll, stick to weekly routine
+P30/Tax summary wk 13 (~5th)
 
 * All weekly paid employees need to be on a round number for Net Pay
 * N.B. Net + Pension = Round Number
@@ -82,6 +85,8 @@ T drive folder: `T:\Clients\CH Meats & CA Hewitt\`
 `ODT_Shared\Clients\CH Meats & CA Hewitt\PAYE`
 Weekly RTI, send 4/5 payslips
 Payslips: rhewitt339(@)btinternet(.)com
+
+P30/Tax summary wk 13 (~5th)
 
 PAYE month ends 5th of month
 `www.gov.uk` > HMRC services > sign in
@@ -119,6 +124,11 @@ Basic Pay of 15000 in April then nothing.
 
 * Monthly nil-RTI, by last day of the month
 * Annually something... payslips?
+  * Tax PAYE run in March (and P30/tax summary?)
+  * Check also in April that things are back to Nil RTI
+    * Payroll Manager, trying to be helpful, tries to start the new FY with the same pay as the end of the previous
+  * Check in HMRC Online PAYE that figures match and that Tax has been paid
+    * Check in April, search for "www.access.service.gov.uk" in password manager beginning 304
 
 `ODT_Shared\Clients\JSK & Sons 356\PAYE`
 

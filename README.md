@@ -54,12 +54,14 @@ Do the full process for each employer in turn
 T drive folder: `T:\Clients\The Blue Cow\`
 Weekly + monthly - RTI on month
 P30/Tax summary wk 13 (~5th)
+Payslips: adam(at)thebluecowbutchers(dot)com tbc
 
 ### Robert & Edwards Limited
 
 T drive folder: `T:\Clients\R&E Ltd -R591\`
 Payroll, stick to weekly routine
 P30/Tax summary wk 13 (~5th)
+Payslips: info(at)robertandedwards(dot)com tbc
 
 * All weekly paid employees need to be on a round number for Net Pay
 * N.B. Net + Pension = Round Number
@@ -73,10 +75,10 @@ It seems that we also need to ensure that some monthly employees are on a round 
 
 T drive folder: `T:\Clients\Folios-F221\`
 `ODT_Shared\Clients\Folios-F221\PAYE`
-Payslips: may.asfahani(at)btinternet(.)com
+Payslips: sales(at)folios???.com
 Send payslips by 20th, wait a few days, then do RTI
 Monthly RTI on or before last Tuesday in month
-Send P30 & Tax Summary immediatelt after you do the RTI
+Send P30 & Tax Summary immediately after you do the RTI
 NEST whenever we send payslips
 
 ### CH Meats
@@ -84,7 +86,7 @@ NEST whenever we send payslips
 T drive folder: `T:\Clients\CH Meats & CA Hewitt\`
 `ODT_Shared\Clients\CH Meats & CA Hewitt\PAYE`
 Weekly RTI, send 4/5 payslips
-Payslips: rhewitt339(@)btinternet(.)com
+Payslips: rhewitt339(at)btinternet(dot)com
 
 P30/Tax summary wk 13 (~5th)
 
@@ -138,6 +140,8 @@ PAYE scheme kept open.
 
 * Monthly nil-RTI, by last day of of the month
 * Except July, typically 9000
+* When you do a non-nil RTI, you need to force payslip before
+  * This is to avoid the calculation thinking you are on a regular salary
 
 `ODT_Shared\Clients\V&T LTD\PAYE`
 

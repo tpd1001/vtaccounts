@@ -363,6 +363,30 @@ tasks
 Use to record submissions, payroll, pension
 `T:\PAYE\payroll details control2021.xlsx`
 
+## Year End
+
+1. Complete the final FPS
+1. Complete the year end EPS
+1. Export the P60s
+  * one per employee
+  * select "Exclude Leavers"
+1. Run the script below for each client from their folder
+  * Launch "Git Bash"
+  * Change to the "Clients" folder: `cd ~/OneDrive*Accountants/ODT_Shared/Clients`
+  * Change to each client in turn e.g. `cd The*Blue*Cow`
+  * Patch the script `sed -i 's/25/26/g;s/24/25/g;s/23/24/g' ../make_new_fy_dirs.txt`
+  * Or edit the script `vim ../make_new_fy_dirs.txt` and increment all the FY numbers by one
+  * Run the script `bash ../make_new_fy_dirs.txt`
+1. Create the new FY folder for Moneysoft Payroll
+  * e.g. `mkdir ~/OneDrive*Accountants/ODT_Shared/Moneysoft*Payroll/2025/26`
+1. "Click here to create a file for next year" and click "OK"
+1. Tick the box to change details and click "OK"
+1. Change the folder to "Moneysoft Payroll/2025-26" and click "Save"
+
+```bash
+tbc
+```
+
 ## Other Notes
 
 Sage Cloud (reconciliation/bookkeeping)

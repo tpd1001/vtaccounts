@@ -1,5 +1,16 @@
 # Payroll Instructions
 
+## Scratch
+
+speak to hmrc
+code from reference file
+
+part renovation, part new
+80% dwelling, 20 non dwelling
+when submit plan, we put in "this is a new dwelling"
+council will look and agree proportion
+builder will invoice with vat for the renovation part
+
 ## Online
 
 Available as a [README](https://github.com/tpd1001/vtaccounts/blob/main/README.md)
@@ -117,17 +128,18 @@ No pay currently.
 
 * Monthly, currently nil-RTI, by 26/27th of the month
 * Except around March/April
+  * then what?
 
 `ODT_Shared\Clients\TinyPltd-T710\PAYE`
 
 ### J.S.Kudail & Sons
 
-Basic Pay of 15000 in April then nothing.
+No basic pay until end of year, then client tells how much in March - typically 15000, but confirm.
 
 * Monthly nil-RTI, by last day of the month
 * Annually something... payslips?
   * Tax PAYE run in March (and P30/tax summary?)
-  * Check also in April that things are back to Nil RTI
+  * You **MUST** also check in April that things are back to Nil RTI
     * Payroll Manager, trying to be helpful, tries to start the new FY with the same pay as the end of the previous
   * Check in HMRC Online PAYE that figures match and that Tax has been paid
     * Check in April, search for "www.access.service.gov.uk" in password manager beginning 304
@@ -368,17 +380,17 @@ Use to record submissions, payroll, pension
 1. Complete the final FPS
 1. Complete the year end EPS
 1. Export the P60s
-  * one per employee
-  * select "Exclude Leavers"
+    1. one per employee
+    1. select "Exclude Leavers"
 1. Run the script below for each client from their folder
-  * Launch "Git Bash"
-  * Change to the "Clients" folder: `cd ~/OneDrive*Accountants/ODT_Shared/Clients`
-  * Change to each client in turn e.g. `cd The*Blue*Cow`
-  * Patch the script `sed -i 's/25/26/g;s/24/25/g;s/23/24/g' ../make_new_fy_dirs.txt`
-  * Or edit the script `vim ../make_new_fy_dirs.txt` and increment all the FY numbers by one
-  * Run the script `bash ../make_new_fy_dirs.txt`
+    1. Launch "Git Bash"
+    1. Change to the "Clients" folder: `cd ~/OneDrive*Accountants/ODT_Shared/Clients`
+    1. Change to each client in turn e.g. `cd The*Blue*Cow`
+    1. Patch the script `sed -i 's/25/26/g;s/24/25/g;s/23/24/g' ../make_new_fy_dirs.txt`
+    1. Or edit the script `vim ../make_new_fy_dirs.txt` and increment all the FY numbers by one
+    1. Run the script `bash ../make_new_fy_dirs.txt`
 1. Create the new FY folder for Moneysoft Payroll
-  * e.g. `mkdir ~/OneDrive*Accountants/ODT_Shared/Moneysoft*Payroll/2025/26`
+    1. e.g. `mkdir ~/OneDrive*Accountants/ODT_Shared/Moneysoft*Payroll/2025/26`
 1. "Click here to create a file for next year" and click "OK"
 1. Tick the box to change details and click "OK"
 1. Change the folder to "Moneysoft Payroll/2025-26" and click "Save"

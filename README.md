@@ -308,11 +308,10 @@ before 5th month (EMP,P30) - send to client (to submit & pay to HMRC by 17th)
 * blue cow - monthly
 * R&E - monthly
 * V&T - monthly, should be nil except March
-* tiny
-* lumbini
+* tiny - nil under normal circumstances
+* lumbini - nil
 * USP - monthly, should be no liability except month 12
-
-JSK - annual payroll, after 15th of March
+* JSK - **annual payroll only**, after 15th of March
 
 ### PENSION
 
@@ -420,15 +419,20 @@ MRST-NEW-PC2
 ## PAYE Notices
 
 Tools > Downloads PAYE Notices > Check for new notices
-check monthly for all clients or every 2 months
 
-select employee and click apply
+* Check monthly for all clients or every 2 months
+* If there are changes:
+  * Theck if the client already forwarded a copy of their "notice of coding change" letter
+  * If not, contact the client and ask for a copy of the HMRC letter to under stand why
+  * If deemed all ok, select employee and click apply
 
 tax code adjustment before calculating net/goss pay
 
 check pay copied over from week 53 to week 1
 
 net-to-gross target button and enter 500
+
+## Other
 
 John Read - plus others
 

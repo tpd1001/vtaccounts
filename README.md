@@ -92,6 +92,34 @@ Monthly RTI on or before last Tuesday in month
 Send P30 & Tax Summary immediately after you do the RTI
 NEST whenever we send payslips
 
+#### Abnormal Pension Payments
+
+I've gone back to the historical abnormal pension payments and discovered that they were made done as follows:
+
+- edit the May's employee pension to add the extra from the employer (£5000 in this case)
+- first submit the normal RTI and save the PDF with an added suffix of "(with May's pension)"
+- go back and unlock the record that the RTI locks
+- remove the added 5000
+- make the NEST pension contribution submission
+- re-add the 5000
+- finally relock the record
+
+Then you have to go to NEST and do the following:
+
+- make the normal pension schedule payment
+- then create an exception schedule (see screenshot)
+  - source: Direct Debit
+  - reason: Payment not covered by a contribution
+  - option: excess contributions for this tax year (member with opt-out rights)
+- add May as a member to the schedule
+- add the payment amount
+- submit for payment
+
+#### Pension
+
+3% of basic pay
+2022-23 payroll
+
 ### CH Meats
 
 T drive folder: `T:\Clients\CH Meats & CA Hewitt\`

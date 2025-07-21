@@ -226,7 +226,6 @@ Contains email addresses, phone numbers etc.
 Companies House sends email
 
 * from Inform Direct
-* n
 
 Then you can submit your accounts
 
@@ -467,3 +466,14 @@ John Read - plus others
 basic pay increase because tax code changes
 need notice from HMRC for why code was changed
 please confirm if you want us to apply the new code
+
+## New Employee
+
+*ANY* new employee
+
+* all employers need to complete a P46
+* questions are among:
+  * is this the sole employment
+  * if not, is this the main employment
+    * if so, we use the full allowance e.g. 1257L
+    * if not, we don't deduct any allowance (code? or `BR`?)
